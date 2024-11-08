@@ -1,12 +1,12 @@
 # Linux-Commands
 ## Instructions
 1. Install the newest version from their official site.
-2. [Updating the Package List](#updating-the-package) before installing new software.
+2. [Update the Package List](#update-the-package) before installing new software.
 3. To run the command in the `root terminal`, remove `sudo`.
 4. Use the  `root terminal` If any command does not execute.
 
 ## Table of Contents
-- [Updating the Package](#updating-the-package)
+- [Update the Package](#updating-the-package)
 - [Google Chrome](#google-chrome)
   - [Install Google Chrome](#install-google-chrome)
 - [Dia](#dia)
@@ -14,7 +14,7 @@
 - [Visual Studio Code](visual-studio-code)
   - [Update Visual Studio Code](update-visual-studio-code)
 
-## Updating the Package
+## Update the Package
 Update your package list to ensure you’re downloading the latest available version.
 ```
 sudo apt update
