@@ -6,7 +6,7 @@
 4. Use the  `root terminal` If any command does not execute.
 
 ## Table of Contents
-- [Update the Package](#updating-the-package)
+- [Update the Package](#update-the-package)
 - [Google Chrome](#google-chrome)
   - [Install Google Chrome](#install-google-chrome)
 - [Dia](#dia)
